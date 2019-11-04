@@ -1,0 +1,7 @@
+D:\Users\fidalskik\source\repos\Kolejnosc\Kolejnosc\bin\Debug\Kolejnosc.exe.config
+D:\Users\fidalskik\source\repos\Kolejnosc\Kolejnosc\bin\Debug\Kolejnosc.exe
+D:\Users\fidalskik\source\repos\Kolejnosc\Kolejnosc\bin\Debug\Kolejnosc.pdb
+D:\Users\fidalskik\source\repos\Kolejnosc\Kolejnosc\obj\Debug\Kolejnosc.csprojResolveAssemblyReference.cache
+D:\Users\fidalskik\source\repos\Kolejnosc\Kolejnosc\obj\Debug\Kolejnosc.csproj.CoreCompileInputs.cache
+D:\Users\fidalskik\source\repos\Kolejnosc\Kolejnosc\obj\Debug\Kolejnosc.exe
+D:\Users\fidalskik\source\repos\Kolejnosc\Kolejnosc\obj\Debug\Kolejnosc.pdb
